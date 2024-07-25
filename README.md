@@ -1,27 +1,24 @@
 <h1 align="center">Dotfiles</h1>
 
 <details>
-  <summary>Reqs & Software<summary>
-  <p>
-
-    **hyprland ( *wm* )**\
-    **waybar ( *bar* )**\
-    **fuzzel ( *app.menu* )**\
-    **clipman ( *clipb.* )**\
-    **grimblast ( *screensh.* )**\
-    **ly ( *displ.m* )**
-
-    **foot ( *term* )**\
-    **fish ( *shell* )**\
-    **yazi ( *file.m* )**\
-    **helix ( *editor* )**\
-    **bottom ( *sys.mon* )**\
-    **fastfetch ( *fetch* )**\
-    **eza ( *cd* )**\
-    **fzf ( *findin'* )**
-
-    **firefox ( *browser* )**
-  <p>
+  <summary><b>Reqs & Software</b><summary>
+  <p><b>
+    hyprland ( wm )
+    waybar ( bar )
+    fuzzel ( app.menu )
+    clipman ( clipb. )
+    grimblast ( screensh. )
+    ly ( displ.m )
+    foot ( term )
+    fish ( shell )
+    yazi ( file.m )
+    helix ( editor )
+    bottom ( sys.mon )
+    fastfetch ( fetch )
+    eza ( cd )
+    fzf ( findin' )
+    firefox ( browser )
+  </b><p>
 </details>
 
 ## Reqs & Software
