@@ -1,23 +1,23 @@
 # Dotfiles
 
 ## Reqs & Software
-*wm* -> **hyprland**
-*bar* -> **waybar**
-*app.menu* -> **fuzzel**
-*clipb.* -> **clipman**
-*screensh.* -> **grimblast**
-*displ.m* -> **ly**
+- *wm* -> **hyprland**
+- *bar* -> **waybar**
+- *app.menu* -> **fuzzel**
+- *clipb.* -> **clipman**
+- *screensh.* -> **grimblast**
+- *displ.m* -> **ly**
 
-*term* -> **foot**
-*shell* -> **fish**
-*file.m* -> **yazi**
-*editor* -> **helix**
-*sys.mon* -> **bottom**
-*fetch* -> **fastfetch**
-*cd* -> **eza**
-*findin'* -> **fzf**
+- *term* -> **foot**
+- *shell* -> **fish**
+- *file.m* -> **yazi**
+- *editor* -> **helix**
+- *sys.mon* -> **bottom**
+- *fetch* -> **fastfetch**
+- *cd* -> **eza**
+- *findin'* -> **fzf**
 
-*browser* -> **firefox**
+- *browser* -> **firefox**
 
 ## Themes & Fonts
 *GTK* -> **Catppuccin Macchiato Gtk Theme**
@@ -42,6 +42,10 @@ gsettings set org.gnome.desktop.interface gtk-theme catppuccin-macchiato-blue-st
 gsettings set org.gnome.desktop.interface icon-theme Bibata-Modern-Ice
 ```
 Changing shell to fish
-`sudo chsh -s /usr/bin/fish`
+```
+sudo chsh -s /usr/bin/fish
+```
 Enabling ly.service
-`sudo systemctl enable ly.service`
+```
+sudo systemctl enable ly.service
+```
