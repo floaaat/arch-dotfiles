@@ -2,6 +2,9 @@
 <hr>
 
 ## Reqs & Software
+**hyprland ( wm )**
+**waybar ( bar )**
+
 ***wm*** -> **hyprland**\
 ***bar*** -> **waybar**\
 ***app.menu*** -> **fuzzel**\
