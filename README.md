@@ -18,7 +18,7 @@
     eza ( cd )
     fzf ( findin' )
     firefox ( browser )
-  </b><p>
+  </b></p>
 </details>
 
 ## Reqs & Software
