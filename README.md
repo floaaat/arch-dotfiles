@@ -1,6 +1,18 @@
 <h1 align="center">Dotfiles</h1>
 
 ## Reqs & Software
+
+<div style="display: flex; gap: 20px;">
+<ul>
+  <li>listitem1.1</li>
+  <li>listitem1.2</li>
+</ul>
+<ul>
+  <li>listitem2.1</li>
+  <li>listitem2.2</li>
+</ul>
+</div>
+
 **hyprland ( *wm* )**\
 **waybar ( *bar* )**\
 **fuzzel ( *app.menu* )**\
