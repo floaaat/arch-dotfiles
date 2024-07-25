@@ -21,6 +21,10 @@
   **fzf ( *findin'* )**
 
   **firefox ( *browser* )**
+
+  **Catppuccin Macchiato Gtk Theme**\
+  **Bibata Cursors**\
+  **FiraCode Nerd Font**
 </details>
 
 ## Reqs & Software
