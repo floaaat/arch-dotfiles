@@ -2,24 +2,7 @@
 
 <details>
   <summary><b>Reqs & Software</b></summary>
-  <b>
-    hyprland ( wm )
-    waybar ( bar )
-    fuzzel ( app.menu )
-    clipman ( clipb. )
-    grimblast ( screensh. )
-    ly ( displ.m )
-    foot ( term )
-    fish ( shell )
-    yazi ( file.m )
-    helix ( editor )
-    bottom ( sys.mon )
-    fastfetch ( fetch )
-    eza ( cd )
-    fzf ( findin' )
-    firefox ( browser )
-  </b>
-  
+
   **hyprland ( *wm* )**\
   **waybar ( *bar* )**\
   **fuzzel ( *app.menu* )**\
