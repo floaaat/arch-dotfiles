@@ -1,6 +1,7 @@
 <h1 align="center">Dotfiles</h1>
 
 ## Reqs & Software
+**==hyprland== ( wm )**
 ***wm*** -> **hyprland**\
 ***bar*** -> **waybar**\
 ***app.menu*** -> **fuzzel**\
