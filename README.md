@@ -2,8 +2,8 @@
 <hr>
 
 ## Reqs & Software
-**hyprland ( wm )**\
-**waybar ( bar )**
+**`hyprland` ( wm )**\
+**`waybar` ( bar )**
 
 ***wm*** -> **hyprland**\
 ***bar*** -> **waybar**\
