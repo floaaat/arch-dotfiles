@@ -1,5 +1,28 @@
 <h1 align="center">Dotfiles</h1>
 
+<details>
+  <summary>Reqs & Software<summary>
+
+  **hyprland ( *wm* )**\
+  **waybar ( *bar* )**\
+  **fuzzel ( *app.menu* )**\
+  **clipman ( *clipb.* )**\
+  **grimblast ( *screensh.* )**\
+  **ly ( *displ.m* )**
+
+  **foot ( *term* )**\
+  **fish ( *shell* )**\
+  **yazi ( *file.m* )**\
+  **helix ( *editor* )**\
+  **bottom ( *sys.mon* )**\
+  **fastfetch ( *fetch* )**\
+  **eza ( *cd* )**\
+  **fzf ( *findin'* )**
+
+  **firefox ( *browser* )**
+
+</details>
+
 ## Reqs & Software
 **hyprland ( *wm* )**\
 **waybar ( *bar* )**\
@@ -18,25 +41,6 @@
 **fzf ( *findin'* )**
 
 **firefox ( *browser* )**
-
-***wm*** -> **hyprland**\
-***bar*** -> **waybar**\
-***app.menu*** -> **fuzzel**\
-***clipb.*** -> **clipman**\
-***screensh.*** -> **grimblast**\
-***displ.m*** -> **ly**
-
-***term*** -> **foot**\
-***shell*** -> **fish**\
-***file.m*** -> **yazi**\
-***editor*** -> **helix**\
-***sys.mon*** -> **bottom**\
-***fetch*** -> **fastfetch**\
-***cd*** -> **eza**\
-***findin'*** -> **fzf**
-
-***browser*** -> **firefox**
-
 ## Themes & Fonts
 *GTK* -> **Catppuccin Macchiato Gtk Theme**\
 *Cursor* -> **Bibata Cursors**\
