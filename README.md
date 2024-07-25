@@ -20,8 +20,8 @@
 *browser* -> **firefox**
 
 ## Themes & Fonts
-*GTK* -> **Catppuccin Macchiato Gtk Theme**
-*Cursor* -> **Bibata Cursors**
+*GTK* -> **Catppuccin Macchiato Gtk Theme**\
+*Cursor* -> **Bibata Cursors**\
 *Font* -> **FiraCode Nerd Font**
 
 ## Installation
