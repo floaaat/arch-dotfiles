@@ -1,7 +1,7 @@
 <h1 align="center">Dotfiles</h1>
 
 <details>
-  <summary><b>Reqs & Software</b><summary>
+  <summary><b>Reqs & Software</b></summary>
   <p><b>
     hyprland ( wm )
     waybar ( bar )
