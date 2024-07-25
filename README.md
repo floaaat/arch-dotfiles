@@ -6,7 +6,7 @@
 *app.menu* -> **fuzzel**\
 *clipb.* -> **clipman**\
 *screensh.* -> **grimblast**\
-*displ.m* -> **ly**\
+*displ.m* -> **ly**
 
 *term* -> **foot**\
 *shell* -> **fish**\
@@ -15,7 +15,7 @@
 *sys.mon* -> **bottom**\
 *fetch* -> **fastfetch**\
 *cd* -> **eza**\
-*findin'* -> **fzf**\
+*findin'* -> **fzf**
 
 *browser* -> **firefox**
 
