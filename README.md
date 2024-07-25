@@ -2,7 +2,7 @@
 
 <details>
   <summary><b>Reqs & Software</b></summary>
-  <p><b>
+  <b>
     hyprland ( wm )
     waybar ( bar )
     fuzzel ( app.menu )
@@ -18,7 +18,7 @@
     eza ( cd )
     fzf ( findin' )
     firefox ( browser )
-  </b></p>
+  </b>
 </details>
 
 ## Reqs & Software
