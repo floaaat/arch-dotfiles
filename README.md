@@ -27,29 +27,6 @@
   **FiraCode Nerd Font**
 </details>
 
-## Reqs & Software
-**hyprland ( *wm* )**\
-**waybar ( *bar* )**\
-**fuzzel ( *app.menu* )**\
-**clipman ( *clipb.* )**\
-**grimblast ( *screensh.* )**\
-**ly ( *displ.m* )**
-
-**foot ( *term* )**\
-**fish ( *shell* )**\
-**yazi ( *file.m* )**\
-**helix ( *editor* )**\
-**bottom ( *sys.mon* )**\
-**fastfetch ( *fetch* )**\
-**eza ( *cd* )**\
-**fzf ( *findin'* )**
-
-**firefox ( *browser* )**
-## Themes & Fonts
-*GTK* -> **Catppuccin Macchiato Gtk Theme**\
-*Cursor* -> **Bibata Cursors**\
-*Font* -> **FiraCode Nerd Font**
-
 ## Installation
 Installing software
 ```
