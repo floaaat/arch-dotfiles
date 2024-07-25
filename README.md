@@ -2,7 +2,7 @@
 <hr>
 
 ## Reqs & Software
-**hyprland ( wm )**
+**hyprland ( wm )**\
 **waybar ( bar )**
 
 ***wm*** -> **hyprland**\
