@@ -1,23 +1,23 @@
 # Dotfiles
 
 ## Reqs & Software
-- *wm* -> **hyprland**
-- *bar* -> **waybar**
-- *app.menu* -> **fuzzel**
-- *clipb.* -> **clipman**
-- *screensh.* -> **grimblast**
-- *displ.m* -> **ly**
+*wm* -> **hyprland**\
+*bar* -> **waybar**\
+*app.menu* -> **fuzzel**\
+*clipb.* -> **clipman**\
+*screensh.* -> **grimblast**\
+*displ.m* -> **ly**\
 
-- *term* -> **foot**
-- *shell* -> **fish**
-- *file.m* -> **yazi**
-- *editor* -> **helix**
-- *sys.mon* -> **bottom**
-- *fetch* -> **fastfetch**
-- *cd* -> **eza**
-- *findin'* -> **fzf**
+*term* -> **foot**\
+*shell* -> **fish**\
+*file.m* -> **yazi**\
+*editor* -> **helix**\
+*sys.mon* -> **bottom**\
+*fetch* -> **fastfetch**\
+*cd* -> **eza**\
+*findin'* -> **fzf**\
 
-- *browser* -> **firefox**
+*browser* -> **firefox**
 
 ## Themes & Fonts
 *GTK* -> **Catppuccin Macchiato Gtk Theme**
