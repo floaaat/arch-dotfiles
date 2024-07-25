@@ -2,25 +2,26 @@
 
 <details>
   <summary>Reqs & Software<summary>
+  <p>
 
-  **hyprland ( *wm* )**\
-  **waybar ( *bar* )**\
-  **fuzzel ( *app.menu* )**\
-  **clipman ( *clipb.* )**\
-  **grimblast ( *screensh.* )**\
-  **ly ( *displ.m* )**
+    **hyprland ( *wm* )**\
+    **waybar ( *bar* )**\
+    **fuzzel ( *app.menu* )**\
+    **clipman ( *clipb.* )**\
+    **grimblast ( *screensh.* )**\
+    **ly ( *displ.m* )**
 
-  **foot ( *term* )**\
-  **fish ( *shell* )**\
-  **yazi ( *file.m* )**\
-  **helix ( *editor* )**\
-  **bottom ( *sys.mon* )**\
-  **fastfetch ( *fetch* )**\
-  **eza ( *cd* )**\
-  **fzf ( *findin'* )**
+    **foot ( *term* )**\
+    **fish ( *shell* )**\
+    **yazi ( *file.m* )**\
+    **helix ( *editor* )**\
+    **bottom ( *sys.mon* )**\
+    **fastfetch ( *fetch* )**\
+    **eza ( *cd* )**\
+    **fzf ( *findin'* )**
 
-  **firefox ( *browser* )**
-
+    **firefox ( *browser* )**
+  <p>
 </details>
 
 ## Reqs & Software
