@@ -1,0 +1,48 @@
+* {
+  border-radius: 10px;
+  border: none;
+  font-family: "FiraCode Nerd Font";
+  font-weight: bold;
+  font-size: 15px;
+}
+
+@define-color bg0 #1e1e2e;
+@define-color bg1 #313244;
+@define-color fg #cdd6f4;
+@define-color gr #9399b2;
+@define-color bl #89b4fa;
+
+window#waybar {
+  background-color: @bg0;
+  transition-property: background-color;
+  transition-duration: .5s;
+}
+
+#workspaces,
+#io,
+#hardware {
+  color: @fg;
+  background-color: @bg1;
+  padding: 0 10px;
+  margin: 6px;
+}
+
+#workspaces button {
+  color: @gr;
+  padding: 0 11px 0 8px;
+  margin: 6px;
+}
+
+#workspaces button:hover,
+#workspaces button.active {
+  color: @fg;
+}
+
+#workspaces button.urgent {
+  color: @bl;
+}
+
+tooltip {
+  color: @fg;
+  background-color: @bg1;
+}

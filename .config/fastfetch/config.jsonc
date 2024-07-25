@@ -1,0 +1,62 @@
+{
+    "logo": {
+        "type": "small",
+        "padding": {
+            "top": 2,
+            "left": 4
+        }
+    },
+    "display": {
+        "separator": "",
+        "keyWidth": 15
+    },
+    "modules": [
+        {
+            "key": "╭───────────╮",
+            "type": "custom"
+        },
+        {
+            "key": "│           │\u001b[11D{#31} user",
+            "type": "title",
+            "format": "{1}"
+        },
+        {
+            "key": "│           │\u001b[11D{#32}󰇅 hname",
+            "type": "title",
+            "format": "{2}"
+        },
+        {
+            "key": "│           │\u001b[11D{#33}󰟾 distro",
+            "type": "os"
+        },
+        {
+            "key": "│           │\u001b[11D{#34} kernel",
+            "type": "kernel"
+        },
+        {
+            "key": "│           │\u001b[11D{#35}󰏖 packages",
+            "type": "packages"
+        },
+        {
+            "key": "│           │\u001b[11D{#36} shell",
+            "type": "shell"
+        },
+        {
+            "key": "│           │\u001b[11D{#39} desktop",
+            "type": "wm"
+        },
+        {
+            "key": "├───────────┤",
+            "type": "custom"
+        },
+        {
+            "key": "│           │\u001b[11D{#39} colors",
+            "type": "colors",
+            "symbol": "circle"
+        },
+        {
+            "key": "╰───────────╯",
+            "type": "custom"
+        }
+    ]
+}

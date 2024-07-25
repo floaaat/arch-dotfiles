@@ -1,0 +1,11 @@
+[manager]
+ratio = [1, 2, 2]
+show_hidden = true
+
+[opener]
+edit = [
+  { run = 'helix "$@"', block = true }
+]
+
+[preview]
+image_filter = "triangle"

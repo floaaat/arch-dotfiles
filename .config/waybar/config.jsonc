@@ -1,0 +1,53 @@
+{
+  "position": "bottom",
+  "height": 50,
+  "spacing": 4,
+  "margin-bottom": 10,
+  "margin-left": 150,
+  "margin-right": 150,
+
+  "modules-left": ["group/io"],
+  "modules-center": ["hyprland/workspaces"],
+  "modules-right": ["group/hardware"],
+
+  "group/io": {
+    "orientation": "horizontal",
+    "modules": [
+      "clock",
+      "custom/sep",
+      "pulseaudio",
+      "custom/sep",      
+      "hyprland/language",
+    ],
+  },
+  "group/hardware": {
+    "orientation": "horizontal",
+    "modules": [
+      "battery",
+      "custom/sep",
+      "temperature",
+      "custom/sep",
+      "cpu",
+      "custom/sep",
+      "memory",
+    ],
+  }, 
+  
+  "custom/sep": {
+    "format": " | ",
+    "tooltip": false,
+  },
+
+  "hyprland/workspaces": {
+    "format": "",
+    "persistent-workspaces": {"*": 5},
+  },
+  
+  "clock": {"format": "󰥔 {:%H:%M}"},
+  "pulseaudio": {"format": "  {volume}%"},
+  "hyprland/language": {"format": "  {short}"},
+  "battery": {"format": "  {capacity}%"},
+  "temperature": {"format": " {temperatureC}°C"},
+  "cpu": {"format": "  {usage}%"},
+  "memory": {"format": "  {percentage}%"},
+}
