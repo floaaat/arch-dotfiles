@@ -2,7 +2,7 @@
 
 <details>
   <summary><b>Reqs & Software</b></summary>
-
+  <br>
   **hyprland ( *wm* )**\
   **waybar ( *bar* )**\
   **fuzzel ( *app.menu* )**\
