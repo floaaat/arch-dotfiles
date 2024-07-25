@@ -1,5 +1,11 @@
 <h1 align="center">Dotfiles</h1>
 
+<p>
+  <img src="assets/1.png"/>
+  <img src="assets/2.png"/>
+  <img src="assets/3.png"/>
+</p>
+
 <details>
   <summary><b>Reqs & Software</b></summary>
   <br>
