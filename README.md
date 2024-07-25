@@ -6,7 +6,7 @@
   <img src="assets/3.png" width="32%"/>
 </p>
 
-<details>
+<details align="center">
   <summary><b>Reqs & Software</b></summary>
   <br>
 
