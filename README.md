@@ -1,9 +1,8 @@
 <h1 align="center">Dotfiles</h1>
 
 <p align="middle">
-  <img src="assets/1.png" width="32%"/>
-  <img src="assets/2.png" width="32%"/>
-  <img src="assets/3.png" width="32%"/>
+  <img src="assets/1.png" width="49%"/>
+  <img src="assets/2.png" width="49%"/>
 </p>
 
 <details>
