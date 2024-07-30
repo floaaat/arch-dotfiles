@@ -24,7 +24,8 @@
   **bottom ( *sys.mon* )**\
   **fastfetch ( *fetch* )**\
   **eza ( *cd* )**\
-  **fzf ( *findin'* )**
+  **fzf ( *findin'* )**\
+  **less ( *pager* )**
 
   **firefox ( *browser* )**
 
@@ -40,7 +41,7 @@
   Installing software
   ```
   sudo pacman -Suy
-  sudo pacman -S hyprland waybar fuzzel clipman ly foot fish yazi helix fastfetch eza fzf firefox ttf-firacode-nerd
+  sudo pacman -S hyprland waybar fuzzel clipman ly foot fish yazi helix fastfetch eza fzf less firefox ttf-firacode-nerd
   yay -S grimblast-git bottom-git catppuccin-gtk-theme-macchiato bibata-cursor-theme
   ```
   Copying config files
