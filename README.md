@@ -58,7 +58,7 @@
   ```
   Setting up themes
   ```sh
-  gsettings set org.gnome.desktop.interface gtk-theme catppuccin-macchiato-blue-standard+default
+  gsettings set org.gnome.desktop.interface gtk-theme catppuccin-mocha-blue-standard+default
   gsettings set org.gnome.desktop.interface icon-theme Bibata-Modern-Ice
   ```
   Setting up wallpapers
