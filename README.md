@@ -15,6 +15,7 @@
   **fuzzel ( *app.menu* )**\
   **clipman ( *clipb.* )**\
   **grimblast ( *screensh.* )**\
+  **swww ( *wallp.daemon* )**\
   **ly ( *displ.m* )**
 
   **foot ( *term* )**\
@@ -29,9 +30,10 @@
 
   **firefox ( *browser* )**
 
-  **Catppuccin Macchiato Gtk Theme**\
-  **Bibata Cursors**\
-  **FiraCode Nerd Font**
+  **catppuccin-gtk-theme-mocha**\
+  **bibata-cursor-theme**\
+  **ttf-firacode-nerd**\
+  **archlinux-wallpaper**
 </details>
 
 <details>
@@ -41,8 +43,13 @@
   Installing software
   ```
   sudo pacman -Suy
-  sudo pacman -S hyprland waybar fuzzel clipman ly foot fish yazi helix fastfetch eza fzf less firefox ttf-firacode-nerd
-  yay -S grimblast-git bottom-git catppuccin-gtk-theme-macchiato bibata-cursor-theme
+  
+  sudo pacman -S hyprland waybar fuzzel clipman swww ly \
+  foot fish yazi helix fastfetch eza fzf less \
+  firefox ttf-firacode-nerd archlinux-wallpaper
+  
+  yay -S grimblast-git bottom-git \
+  catppuccin-gtk-theme-mocha bibata-cursor-theme
   ```
   Copying config files
   ```
@@ -53,6 +60,10 @@
   ```
   gsettings set org.gnome.desktop.interface gtk-theme catppuccin-macchiato-blue-standard+default
   gsettings set org.gnome.desktop.interface icon-theme Bibata-Modern-Ice
+  ```
+  Setting up wallpapers
+  ```
+  swww img /usr/share/backgrounds/archlinux/mountain.jpg
   ```
   Changing shell to fish
   ```
