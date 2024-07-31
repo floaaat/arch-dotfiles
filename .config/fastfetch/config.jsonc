@@ -7,8 +7,7 @@
         }
     },
     "display": {
-        "separator": "",
-        "keyWidth": 15
+        "separator": " ",
     },
     "modules": [
         {
@@ -16,33 +15,33 @@
             "type": "custom"
         },
         {
-            "key": "│           │\u001b[11D{#31} user",
+            "key": "│ {#31} user    {#keys}│",
             "type": "title",
-            "format": "{1}"
+            "format": "{user-name}"
         },
         {
-            "key": "│           │\u001b[11D{#32}󰇅 hname",
+            "key": "│ {#32}󰇅 hname   {#keys}│",
             "type": "title",
-            "format": "{2}"
+            "format": "{host-name}"
         },
         {
-            "key": "│           │\u001b[11D{#33}󰟾 distro",
+            "key": "│ {#33}󰟾 distro  {#keys}│",
             "type": "os"
         },
         {
-            "key": "│           │\u001b[11D{#34} kernel",
+            "key": "│ {#34} kernel  {#keys}│",
             "type": "kernel"
         },
         {
-            "key": "│           │\u001b[11D{#35}󰏖 packages",
+            "key": "│ {#35}󰏖 pkgs    {#keys}│",
             "type": "packages"
         },
         {
-            "key": "│           │\u001b[11D{#36} shell",
+            "key": "│ {#36} shell   {#keys}│",
             "type": "shell"
         },
         {
-            "key": "│           │\u001b[11D{#39} desktop",
+            "key": "│ {#39} desktop {#keys}│",
             "type": "wm"
         },
         {
@@ -50,7 +49,7 @@
             "type": "custom"
         },
         {
-            "key": "│           │\u001b[11D{#39} colors",
+            "key": "│ {#39} colors  {#keys}│",
             "type": "colors",
             "symbol": "circle"
         },
