@@ -58,7 +58,7 @@
   Setting up themes
   ```sh
   gsettings set org.gnome.desktop.interface gtk-theme catppuccin-mocha-blue-standard+default
-  gsettings set org.gnome.desktop.interface icon-theme Bibata-Modern-Ice
+  gsettings set org.gnome.desktop.interface cursor-theme Bibata-Modern-Ice
   ```
   Setting up wallpapers
   ```sh
