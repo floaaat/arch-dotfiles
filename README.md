@@ -55,10 +55,6 @@
   git clone https://github.com/floaaat/dotfiles.git ~/floaaat-dotfiles/
   cp ~/floaaat-dotfiles/.config/* ~/.config/
   ```
-  Setting up wallpapers
-  ```sh
-  swww img /usr/share/backgrounds/archlinux/mountain.jpg
-  ```
   Changing shell to fish
   ```sh
   sudo chsh -s /usr/bin/fish
