@@ -8,13 +8,13 @@
   "group/main": {
     "orientation": "horizontal",
     "modules": [
-      "clock",
-      "custom/sep",
       "hyprland/language",
+      "custom/sep",
+      "pulseaudio",
       "custom/sep",      
       "battery",
       "custom/sep",
-      "pulseaudio",
+      "clock",
     ],
   },
   
@@ -37,8 +37,8 @@
     "persistent-workspaces": {"*": 5},
   },
   
-  "clock": {"format": "󰥔 {:%H:%M}", "tooltip": false},
-  "pulseaudio": {"format": "  {volume}%"},
   "hyprland/language": {"format": "  {short}"},
+  "pulseaudio": {"format": "  {volume}%"},
   "battery": {"format": "  {capacity}%"},
+  "clock": {"format": "󰥔 {:%H:%M}", "tooltip": false},
 }
