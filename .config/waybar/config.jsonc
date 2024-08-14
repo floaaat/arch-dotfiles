@@ -1,9 +1,8 @@
 {
   "position": "bottom",
-  "spacing": 4,
   "width": 750,
   "margin-bottom": 10,
-  "modules-left": ["custom/logo", "hyprland/workspaces"],
+  "modules-left": ["custom/menu", "hyprland/workspaces"],
   "modules-right": ["group/main"],
 
   "group/main": {
@@ -24,7 +23,7 @@
     "tooltip": false,
   },
 
-  "custom/logo": {
+  "custom/menu": {
     "format": "󰣇",
     "tooltip": false,
     "on-click": "fuzzel",

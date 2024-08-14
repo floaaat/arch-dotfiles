@@ -25,7 +25,7 @@ tooltip { color: @fg; background-color: @bg1 }
   margin: 6px;
 }
 
-#custom-logo {
+#custom-menu {
   color: @bl;
   background-color: @bg1;
   font-size: 20px;
