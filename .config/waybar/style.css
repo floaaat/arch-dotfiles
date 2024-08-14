@@ -29,9 +29,10 @@ tooltip { color: @fg; background-color: @bg1 }
   color: @bl;
   background-color: @bg1;
   font-size: 20px;
-  padding: 0 14px 0 10px;
+  padding: 0 15px 0 10px;
   margin: 6px;
 }
+#custom-sep { font-size: 18px }
 
 #workspaces button {
   color: @gr;

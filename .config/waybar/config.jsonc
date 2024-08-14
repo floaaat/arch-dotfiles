@@ -1,6 +1,6 @@
 {
   "position": "bottom",
-  "width": 750,
+  "width": 800,
   "margin-bottom": 10,
   "modules-left": ["custom/menu", "hyprland/workspaces"],
   "modules-right": ["group/main"],
@@ -19,7 +19,7 @@
   },
   
   "custom/sep": {
-    "format": " : ",
+    "format": " 󰇙 ",
     "tooltip": false,
   },
 
