@@ -1,53 +1,45 @@
 {
   "position": "bottom",
-  "height": 50,
   "spacing": 4,
+  "width": 750,
   "margin-bottom": 10,
-  "margin-left": 150,
-  "margin-right": 150,
+  "modules-left": ["custom/logo", "hyprland/workspaces"],
+  "modules-right": ["group/main"],
 
-  "modules-left": ["group/io"],
-  "modules-center": ["hyprland/workspaces"],
-  "modules-right": ["group/hardware"],
-
-  "group/io": {
+  "group/main": {
     "orientation": "horizontal",
     "modules": [
       "clock",
       "custom/sep",
-      "pulseaudio",
-      "custom/sep",      
       "hyprland/language",
-    ],
-  },
-  "group/hardware": {
-    "orientation": "horizontal",
-    "modules": [
+      "custom/sep",      
       "battery",
       "custom/sep",
-      "temperature",
-      "custom/sep",
-      "cpu",
-      "custom/sep",
-      "memory",
+      "pulseaudio",
     ],
-  }, 
+  },
   
   "custom/sep": {
-    "format": " | ",
+    "format": " : ",
     "tooltip": false,
   },
 
+  "custom/logo": {
+    "format": "󰣇",
+    "tooltip": false,
+    "on-click": "fuzzel",
+  },
   "hyprland/workspaces": {
-    "format": "",
+    "format": "{icon}",
+    "format-icons": {
+      "active": "",
+      "default": "",
+    },
     "persistent-workspaces": {"*": 5},
   },
   
-  "clock": {"format": "󰥔 {:%H:%M}"},
+  "clock": {"format": "󰥔 {:%H:%M}", "tooltip": false},
   "pulseaudio": {"format": "  {volume}%"},
   "hyprland/language": {"format": "  {short}"},
   "battery": {"format": "  {capacity}%"},
-  "temperature": {"format": " {temperatureC}°C"},
-  "cpu": {"format": "  {usage}%"},
-  "memory": {"format": "  {percentage}%"},
 }

@@ -13,7 +13,6 @@ if status is-interactive
     enable_transience
 
     set -U fish_greeting
-    set -Ux EDITOR helix
 
     fastfetch
 end
