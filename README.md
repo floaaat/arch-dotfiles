@@ -9,30 +9,31 @@
   <summary><b>Reqs & Software</b></summary>
   <br>
 
-  **hyprland ( *wm* )**\
-  **waybar ( *bar* )**\
-  **fuzzel ( *app.menu* )**\
-  **clipman ( *clipb.* )**\
-  **grimblast ( *screensh.* )**\
-  **swww ( *wallp.daemon* )**\
-  **ly ( *displ.m* )**
+  | Distro       | Arch       |
+  | ------------ | ---------- |
+  | WM           | Hyprland   |
+  | Bar          | Waybar     |
+  | Launcher     | Fuzzel     |
+  | Wallpaper D. | Sww        |
+  | Clipboard M. | Clipman    |
+  | Sceenshoting | Grimblast  |
+  | DM           | Ly         |
+  
+  | Term         | Foot       |
+  | ------------ | ---------- |
+  | Shell        | Fish       |
+  | File M.      | Yazi       |
+  | Editor       | Helix      |
+  | System Mon.  | Bottom     |
+  | Fetch        | Fastfetch  |
+  | Pager        | Less       |
+  | Other        | eza, fzf   |
 
-  **foot ( *term* )**\
-  **fish ( *shell* )**\
-  **yazi ( *file.m* )**\
-  **helix ( *editor* )**\
-  **bottom ( *sys.mon* )**\
-  **fastfetch ( *fetch* )**\
-  **eza ( *cd* )**\
-  **fzf ( *findin'* )**\
-  **less ( *pager* )**
-
-  **firefox ( *browser* )**
-
-  **catppuccin-gtk-theme-mocha**\
-  **bibata-cursor-theme**\
-  **ttf-firacode-nerd**\
-  **archlinux-wallpaper**
+  | GTK Theme    | Catppuccin |
+  | ------------ | ---------- |
+  | Cursor Theme | Bibata     |
+  | Font         | FiraCode   |
+  | Wallpapers   | Archlinux  |
 </details>
 
 <details>
@@ -43,9 +44,9 @@
   ```sh
   sudo pacman -Suy
   
-  sudo pacman -S hyprland waybar fuzzel clipman swww ly \
-  foot fish yazi helix fastfetch eza fzf less \
-  firefox ttf-firacode-nerd archlinux-wallpaper
+  sudo pacman -S hyprland waybar fuzzel swww clipman ly \
+  foot fish yazi helix fastfetch less eza fzf \
+  ttf-firacode-nerd archlinux-wallpaper
   
   yay -S grimblast-git bottom-git \
   catppuccin-gtk-theme-mocha bibata-cursor-theme
