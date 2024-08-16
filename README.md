@@ -10,7 +10,7 @@
   <br>
 
   | Distro       | Arch       |
-  | ------------ | ---------- |
+  | :----------: | :--------: |
   | WM           | Hyprland   |
   | Bar          | Waybar     |
   | Launcher     | Fuzzel     |
@@ -20,8 +20,9 @@
   | DM           | Ly         |
   
   | Term         | Foot       |
-  | ------------ | ---------- |
+  | :----------: | :--------: |
   | Shell        | Fish       |
+  | Prompt       | Starship   |
   | File M.      | Yazi       |
   | Editor       | Helix      |
   | System Mon.  | Bottom     |
@@ -30,7 +31,7 @@
   | Other        | eza, fzf   |
 
   | GTK Theme    | Catppuccin |
-  | ------------ | ---------- |
+  | :----------: | :--------: |
   | Cursor Theme | Bibata     |
   | Font         | FiraCode   |
   | Wallpapers   | Archlinux  |
@@ -45,7 +46,7 @@
   sudo pacman -Suy
   
   sudo pacman -S hyprland waybar fuzzel swww clipman ly \
-  foot fish yazi helix fastfetch less eza fzf \
+  foot fish starship yazi helix fastfetch less eza fzf \
   ttf-firacode-nerd archlinux-wallpaper
   
   yay -S grimblast-git bottom-git \
