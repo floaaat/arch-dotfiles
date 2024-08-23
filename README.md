@@ -61,7 +61,7 @@
   Copying config files
   ```sh
   git clone https://github.com/floaaat/dotfiles.git ~/floaaat-dotfiles/
-  cp ~/floaaat-dotfiles/.config/* ~/.config/
+  cp -r ~/floaaat-dotfiles/.config/* ~/.config/
   ```
   Changing shell to fish
   ```sh
