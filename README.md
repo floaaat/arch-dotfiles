@@ -18,7 +18,7 @@
   | Wallp. D.  | Sww       |    |    | Editor    | Helix          |    |    |                      |
   | Clipb. M.  | Cliphist  |    |    | Sys. Mon. | Bottom         |    |    |                      |
   | Sceenshots | Grimblast |    |    | Fetch     | Fastfetch      |    |    |                      |
-  | DM         | Ly        |    |    | Other     | Eza, Fzf, Less |    |    |                      |
+  | DM         | Ly        |    |    | Other     | Less, Eza, Fzf |    |    |                      |
   
 </details>
 
