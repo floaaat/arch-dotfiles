@@ -14,7 +14,7 @@
   | Distro     | Arch      |    |    | Term      | Foot           |    |    | Catppuccin GTK Theme |
   | WM         | Hyprland  |    |    | Shell     | Fish           |    |    | Bibata Cursor Theme  |
   | Bar        | Waybar    |    |    | Prompt    | Starship       |    |    | Firacode Nerd Font   |
-  | Launcher   | Fuzzel    |    |    | File M.   | Yazi           |    |    | Archlinux wallp.     |
+  | Launcher   | Fuzzel    |    |    | File M.   | Yazi           |    |    | Archlinux wallpapers |
   | Wallp. D.  | Sww       |    |    | Editor    | Helix          |    |    |                      |
   | Clipb. M.  | Cliphist  |    |    | Sys. Mon. | Bottom         |    |    |                      |
   | Sceenshots | Grimblast |    |    | Fetch     | Fastfetch      |    |    |                      |
