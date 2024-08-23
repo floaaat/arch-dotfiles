@@ -9,16 +9,16 @@
   <summary><b>Reqs & Software</b></summary>
   <br>
 
-  |              |            |       |       |
-  | ------------ | ---------- | ----- | ----- |
-  | Distro       | Arch       |       |       |
-  | WM           | Hyprland   |       | blatt |
-  | Bar          | Waybar     |       |       |
-  | Launcher     | Fuzzel     |       |       |
-  | Wallpaper D. | Sww        |       |       |
-  | Clipboard M. | Cliphist   |       |       |
-  | Sceenshoting | Grimblast  |       |       |
-  | DM           | Ly         |       |       |
+  |              |            |    |    |
+  | ------------ | ---------- | -- | -- |
+  | Distro       | Arch       |    |    |
+  | WM           | Hyprland   |    |    |
+  | Bar          | Waybar     |    |    |
+  | Launcher     | Fuzzel     |    |    |
+  | Wallpaper D. | Sww        |    |    |
+  | Clipboard M. | Cliphist   |    |    |
+  | Sceenshoting | Grimblast  |    |    |
+  | DM           | Ly         |    |    |
   
   |              |            |
   | ------------ | ---------- |
