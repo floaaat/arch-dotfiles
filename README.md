@@ -10,16 +10,16 @@
   <br>
   <b>
 
-  |            |           |    |    |           |                |    |    |                      |
-  | ---------- | --------- | -- | -- | --------- | -------------- | -- | -- | -------------------- |
-  | Distro     | Arch      |    |    | Term      | Foot           |    |    | Catppuccin GTK Theme |
-  | WM         | Hyprland  |    |    | Shell     | Fish           |    |    | Bibata Cursor Theme  |
-  | Bar        | Waybar    |    |    | Prompt    | Starship       |    |    | Firacode Nerd Font   |
-  | Launcher   | Fuzzel    |    |    | File M.   | Yazi           |    |    | Archlinux wallpapers |
-  | Wallp. D.  | Sww       |    |    | Editor    | Helix          |    |    |                      |
-  | Clipb. M.  | Cliphist  |    |    | Sys. Mon. | Bottom         |    |    |                      |
-  | Sceenshots | Grimblast |    |    | Fetch     | Fastfetch      |    |    |                      |
-  | DM         | Ly        |    |    | Other     | Less, Eza, Fzf |    |    |                      |
+  |            |             |    |    |           |                |    |    |                      |
+  | ---------- | ----------- | -- | -- | --------- | -------------- | -- | -- | -------------------- |
+  | Distro     | Arch        |    |    | Term      | Foot           |    |    | Catppuccin GTK Theme |
+  | WM         | Hyprland    |    |    | Shell     | Fish           |    |    | Bibata Cursor Theme  |
+  | Bar        | Waybar      |    |    | Prompt    | Starship       |    |    | Firacode Nerd Font   |
+  | Launcher   | Fuzzel      |    |    | File M.   | Yazi           |    |    | Archlinux wallpapers |
+  | Wallp. D.  | Sww         |    |    | Editor    | Helix          |    |    |                      |
+  | Clipb. M.  | Cliphist    |    |    | Sys. Mon. | Bottom         |    |    |                      |
+  | Sceenshots | Grim, Slurp |    |    | Fetch     | Fastfetch      |    |    |                      |
+  | DM         | Ly          |    |    | Other     | Less, Eza, Fzf |    |    |                      |
 
   </b>
 </details>
@@ -52,12 +52,11 @@
   ```sh
   sudo pacman -Suy
   
-  sudo pacman -S hyprland waybar fuzzel swww cliphist ly \
+  sudo pacman -S hyprland waybar fuzzel swww cliphist grim slurp ly \
   foot fish starship yazi helix fastfetch less eza fzf \
   ttf-firacode-nerd archlinux-wallpaper
   
-  yay -S grimblast-git bottom-git \
-  catppuccin-gtk-theme-mocha bibata-cursor-theme
+  yay -S bottom-git catppuccin-gtk-theme-mocha bibata-cursor-theme
   ```
   Copying config files
   ```sh
