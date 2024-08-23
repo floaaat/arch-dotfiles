@@ -9,18 +9,20 @@
   <summary><b>Reqs & Software</b></summary>
   <br>
 
-  | Distro       | Arch       |
-  | :----------: | :--------: |
-  | WM           | Hyprland   |
-  | Bar          | Waybar     |
-  | Launcher     | Fuzzel     |
-  | Wallpaper D. | Sww        |
-  | Clipboard M. | Clipman    |
-  | Sceenshoting | Grimblast  |
-  | DM           | Ly         |
+  |              |            |       |       |
+  | ------------ | ---------- | ----- | ----- |
+  | Distro       | Arch       |       |       |
+  | WM           | Hyprland   |       | blatt |
+  | Bar          | Waybar     |       |       |
+  | Launcher     | Fuzzel     |       |       |
+  | Wallpaper D. | Sww        |       |       |
+  | Clipboard M. | Cliphist   |       |       |
+  | Sceenshoting | Grimblast  |       |       |
+  | DM           | Ly         |       |       |
   
+  |              |            |
+  | ------------ | ---------- |
   | Term         | Foot       |
-  | :----------: | :--------: |
   | Shell        | Fish       |
   | Prompt       | Starship   |
   | File M.      | Yazi       |
@@ -30,11 +32,13 @@
   | Pager        | Less       |
   | Other        | eza, fzf   |
 
+  |              |            |
+  | ------------ | ---------- |
   | GTK Theme    | Catppuccin |
-  | :----------: | :--------: |
   | Cursor Theme | Bibata     |
   | Font         | FiraCode   |
   | Wallpapers   | Archlinux  |
+
 </details>
 
 <details>
@@ -45,7 +49,7 @@
   ```sh
   sudo pacman -Suy
   
-  sudo pacman -S hyprland waybar fuzzel swww clipman ly \
+  sudo pacman -S hyprland waybar fuzzel swww cliphist ly \
   foot fish starship yazi helix fastfetch less eza fzf \
   ttf-firacode-nerd archlinux-wallpaper
   
