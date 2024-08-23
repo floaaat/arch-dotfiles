@@ -29,26 +29,16 @@
   <br>
   <b>
 
-  | Keybinding            | Action                    |
-  | --------------------- | ------------------------- |
-  | SUPER + CTRL + E      | Exit                      |
-  | SUPER + SPACE         | App Menu                  |
-  | SUPER + ENTER         | Terminal                  |
-  | SUPER + BACKSPACE     | Close Window              |
-  | SUPER + E             | File Manager              |
-  | SUPER + B             | Browser                   |
-  | SUPER + V             | Clipboard                 |
-  | PrintScreen           | Screenshot                |
-  | SUPER + T             | Toggle Split              |
-  | SUPER + F             | Float Mode                |
-  | SUPER + P             | Pseudo Mode               |
-  | SUPER + arrow         | Move Focus                |
-  | SUPER + LMB           | Move Window               |
-  | SUPER + RMB           | Resize Window             |
-  | SUPER + (1-5)         | Workspace (1-5)           |
-  | SUPER + S             | Special Workspace         |
-  | SUPER + SHIFT + (1-5) | Move To Workspace (1-5)   |
-  | SUPER + SHIFT + S     | Move To Special Workspace |
+  | Keybinding        | Action       |    |    | Keybinding              | Action                          |
+  | ----------------- | ------------ | -- | -- | ----------------------- | ------------------------------- |
+  | SUPER + CTRL + E  | Exit         |    |    | SUPER + T               | Toggle Split                    |
+  | SUPER + SPACE     | App Menu     |    |    | SUPER + F               | Floating Mode                   |
+  | SUPER + ENTER     | Terminal     |    |    | SUPER + P               | Pseudo Mode                     |
+  | SUPER + BACKSPACE | Close Window |    |    | SUPER + ARROW           | Move Focus                      |
+  | SUPER + E         | File Manager |    |    | SUPER + LMB/RMB         | Move/Resize Window              |
+  | SUPER + B         | Browser      |    |    | SUPER + (1-5,S)         | Workspace (1-5)/Special         |
+  | SUPER + V         | Clipboard    |    |    | SUPER + SHIFT + (1-5,S) | Move To Workspace (1-5)/Special |
+  | PrintScreen       | Screenshot   |    |    |                         |                                 |
     
   </b>
 </details>
