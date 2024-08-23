@@ -9,16 +9,16 @@
   <summary><b>Reqs & Software</b></summary>
   <br>
 
-  |            |            |    |    |            |            |    |    |                    |
-  | ---------- | ---------- | -- | -- | ---------- | ---------- | -- | -- | ------------------ |
-  | Distro     | Arch       |    |    | Term       | Foot       |    |    | Catppuccin GTK Th. |
-  | WM         | Hyprland   |    |    | Shell      | Fish       |    |    | Bibata Cursor Th.  |
-  | Bar        | Waybar     |    |    | Prompt     | Starship   |    |    | Firacode Nerd Font |
-  | Launcher   | Fuzzel     |    |    | File M.    | Yazi       |    |    | Archlinux wallp.   |
-  | Wallp. D.  | Sww        |    |    | Editor     | Helix      |    |    |                    |
-  | Clipb. M.  | Cliphist   |    |    | Sys. Mon.  | Bottom     |    |    |                    |
-  | Sceenshots | Grimblast  |    |    | Fetch      | Fastfetch  |    |    |                    |
-  | DM         | Ly         |    |    | Eza, Fzf, Less        | |    |    |                    |
+  |            |           |    |    |           |                |    |    |                    |
+  | ---------- | --------- | -- | -- | --------- | -------------- | -- | -- | ------------------ |
+  | Distro     | Arch      |    |    | Term      | Foot           |    |    | Catppuccin GTK Th. |
+  | WM         | Hyprland  |    |    | Shell     | Fish           |    |    | Bibata Cursor Th.  |
+  | Bar        | Waybar    |    |    | Prompt    | Starship       |    |    | Firacode Nerd Font |
+  | Launcher   | Fuzzel    |    |    | File M.   | Yazi           |    |    | Archlinux wallp.   |
+  | Wallp. D.  | Sww       |    |    | Editor    | Helix          |    |    |                    |
+  | Clipb. M.  | Cliphist  |    |    | Sys. Mon. | Bottom         |    |    |                    |
+  | Sceenshots | Grimblast |    |    | Fetch     | Fastfetch      |    |    |                    |
+  | DM         | Ly        |    |    | Other     | Eza, Fzf, Less |    |    |                    |
   
 </details>
 
