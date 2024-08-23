@@ -29,17 +29,17 @@
   <br>
   <b>
 
-  | Keybinding        | Action       |    |    | Keybinding            | Action                    |
-  | ----------------- | ------------ | -- | -- | --------------------- | ------------------------- |
-  | SUPER + CTRL + E  | Exit         |    |    | SUPER + T             | Toggle Split              |
-  | SUPER + SPACE     | App Menu     |    |    | SUPER + F             | Floating Mode             |
-  | SUPER + ENTER     | Terminal     |    |    | SUPER + P             | Pseudo Mode               |
-  | SUPER + BACKSPACE | Close Window |    |    | SUPER + ARROW         | Move Focus                |
-  | SUPER + E         | File Manager |    |    | SUPER + LMB/RMB       | Move/Resize Window        |
-  | SUPER + B         | Browser      |    |    | SUPER + (1-5)         | Workspace (1-5)           |
-  | SUPER + V         | Clipboard    |    |    | SUPER + SHIFT + (1-5) | Move To Workspace (1-5)   |
-  | PrintScreen       | Screenshot   |    |    | SUPER + S             | Special Workspace         |
-  |                   |              |    |    | SUPER + SHIFT + S     | Move To Special Workspace |
+  | Keybinding        | Action       |    | Keybinding            | Action                    |
+  | ----------------- | ------------ | -- | --------------------- | ------------------------- |
+  | SUPER + CTRL + E  | Exit         |    | SUPER + T             | Toggle Split              |
+  | SUPER + SPACE     | App Menu     |    | SUPER + F             | Floating Mode             |
+  | SUPER + ENTER     | Terminal     |    | SUPER + P             | Pseudo Mode               |
+  | SUPER + BACKSPACE | Close Window |    | SUPER + ARROW         | Move Focus                |
+  | SUPER + E         | File Manager |    | SUPER + LMB/RMB       | Move/Resize Window        |
+  | SUPER + B         | Browser      |    | SUPER + (1-5)         | Workspace (1-5)           |
+  | SUPER + V         | Clipboard    |    | SUPER + SHIFT + (1-5) | Move To Workspace (1-5)   |
+  | PrintScreen       | Screenshot   |    | SUPER + S             | Special Workspace         |
+  |                   |              |    | SUPER + SHIFT + S     | Move To Special Workspace |
     
   </b>
 </details>
