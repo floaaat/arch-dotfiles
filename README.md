@@ -9,36 +9,17 @@
   <summary><b>Reqs & Software</b></summary>
   <br>
 
-  |              |            |    |    |
-  | ------------ | ---------- | -- | -- |
-  | Distro       | Arch       |    |    |
-  | WM           | Hyprland   |    |    |
-  | Bar          | Waybar     |    |    |
-  | Launcher     | Fuzzel     |    |    |
-  | Wallpaper D. | Sww        |    |    |
-  | Clipboard M. | Cliphist   |    |    |
-  | Sceenshoting | Grimblast  |    |    |
-  | DM           | Ly         |    |    |
+  |            |            |    |    |            |            |    |    |                    |
+  | ---------- | ---------- | -- | -- | ---------- | ---------- | -- | -- | ------------------ |
+  | Distro     | Arch       |    |    | Term       | Foot       |    |    | Catppuccin GTK Th. |
+  | WM         | Hyprland   |    |    | Shell      | Fish       |    |    | Bibata Cursor Th.  |
+  | Bar        | Waybar     |    |    | Prompt     | Starship   |    |    | Firacode Nerd Font |
+  | Launcher   | Fuzzel     |    |    | File M.    | Yazi       |    |    | Archlinux wallp.   |
+  | Wallp. D.  | Sww        |    |    | Editor     | Helix      |    |    |                    |
+  | Clipb. M.  | Cliphist   |    |    | Sys. Mon.  | Bottom     |    |    |                    |
+  | Sceenshots | Grimblast  |    |    | Fetch      | Fastfetch  |    |    |                    |
+  | DM         | Ly         |    |    | Eza, Fzf, Less         ||    |    |                    |
   
-  |              |            |
-  | ------------ | ---------- |
-  | Term         | Foot       |
-  | Shell        | Fish       |
-  | Prompt       | Starship   |
-  | File M.      | Yazi       |
-  | Editor       | Helix      |
-  | System Mon.  | Bottom     |
-  | Fetch        | Fastfetch  |
-  | Pager        | Less       |
-  | Other        | eza, fzf   |
-
-  |              |            |
-  | ------------ | ---------- |
-  | GTK Theme    | Catppuccin |
-  | Cursor Theme | Bibata     |
-  | Font         | FiraCode   |
-  | Wallpapers   | Archlinux  |
-
 </details>
 
 <details>
