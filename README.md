@@ -58,9 +58,9 @@
   ```sh
   git clone https://github.com/floaaat/dotfiles.git ~/floaaat-dotfiles/
 
-  [[ -e ~/.config/ ]] || mkdir ~/.config/
-  [[ -e ~/.icons/ ]] || mkdir ~/.icons/
-  [[ -e ~/.themes/ ]] || mkdir ~/.themes/
+  mkdir -p ~/.config/
+  mkdir -p ~/.icons/
+  mkdir -p ~/.themes/
 
   cp -r ~/floaaat-dotfiles/.config/* ~/.config/
   cp -r ~/floaaat-dotfiles/.icons/* ~/.icons/
