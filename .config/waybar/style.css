@@ -36,9 +36,11 @@ tooltip { color: @fg; background-color: @bg1 }
 
 #workspaces button {
   color: @gr;
-  padding-right: 4px;
+  box-shadow: inset 0 0 transparent;
   margin: 6px 12px;
 }
 #workspaces button:hover,
-#workspaces button.active { color: @fg }
+#workspaces button.active {
+   color: @fg;
+ }
 #workspaces button.urgent { color: @bl }
