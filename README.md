@@ -14,7 +14,7 @@
 </p>
 
 <details>
-  <summary><b>Reqs & Software</b></summary>
+  <summary><b>Software</b></summary>
   <br>
 
   *WM* -- **hyprland**\
