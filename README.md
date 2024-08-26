@@ -1,4 +1,24 @@
-<h1 align="center">Dotfiles</h1>
+<h1 align="center">catppuccin hyprland dotfiles</h1>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/endpoint
+    ?url=https://ghloc.vercel.app/api/floaaat/dotfiles/badge
+    &style=for-the-badge&colorA=313244&colorB=89b4fa"
+  >
+  <img
+    src="https://img.shields.io/github/languages/code-size/floaaat/dotfiles
+    ?style=for-the-badge&colorA=313244&colorB=cba6f7"
+  >
+  <img
+    src="https://img.shields.io/github/languages/top/floaaat/dotfiles
+    ?style=for-the-badge&colorA=313244&colorB=f5c2e7"
+  >
+  <img
+    src="https://img.shields.io/github/license/floaaat/dotfiles
+    ?style=for-the-badge&colorA=313244&colorB=a6e3a1"
+  >
+</p>
 
 <p align="middle">
   <img src="assets/1.png" width="49%"/>
