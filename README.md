@@ -14,10 +14,7 @@
     src="https://img.shields.io/github/languages/top/floaaat/dotfiles
     ?style=for-the-badge&colorA=313244&colorB=f5c2e7"
   >
-  <img
-    src="https://img.shields.io/github/license/floaaat/dotfiles
-    ?style=for-the-badge&colorA=313244&colorB=a6e3a1"
-  >
+  <img src="https://img.shields.io/github/license/floaaat/dotfiles?style=for-the-badge&colorA=313244&colorB=a6e3a1">
 </p>
 
 <p align="middle">
