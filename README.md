@@ -53,18 +53,15 @@
   sudo pacman -Sy hyprland waybar fuzzel swww cliphist grim slurp ly \
   foot fish starship yazi helix bottom fastfetch less eza fzf \
   ttf-firacode-nerd archlinux-wallpaper
+
+  sudo yay -Sy catppuccin-gtk-theme-mocha bibata-cursor-theme
   ```
   Copying config files
   ```sh
   git clone https://github.com/floaaat/dotfiles.git ~/floaaat-dotfiles/
 
   mkdir -p ~/.config/
-  mkdir -p ~/.icons/
-  mkdir -p ~/.themes/
-
   cp -r ~/floaaat-dotfiles/.config/* ~/.config/
-  cp -r ~/floaaat-dotfiles/.icons/* ~/.icons/
-  cp -r ~/floaaat-dotfiles/.themes/* ~/.themes/
   ```
   Changing shell to fish
   ```sh
