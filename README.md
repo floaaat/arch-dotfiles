@@ -16,40 +16,14 @@
 <details>
   <summary><b>Reqs & Software</b></summary>
   <br>
-  <b>
 
-  |            |             |    |    |           |                |    |    |                      |
-  | ---------- | ----------- | -- | -- | --------- | -------------- | -- | -- | -------------------- |
-  | Distro     | Arch        |    |    | Term      | Foot           |    |    | Catppuccin GTK Theme |
-  | WM         | Hyprland    |    |    | Shell     | Fish           |    |    | Bibata Cursor Theme  |
-  | Bar        | Waybar      |    |    | Prompt    | Starship       |    |    | Firacode Nerd Font   |
-  | Launcher   | Fuzzel      |    |    | File M.   | Yazi           |    |    | Archlinux wallpapers |
-  | Wallp. D.  | Sww         |    |    | Editor    | Helix          |    |    |                      |
-  | Clipb. M.  | Cliphist    |    |    | Sys. Mon. | Bottom         |    |    |                      |
-  | Sceenshots | Grim, Slurp |    |    | Fetch     | Fastfetch      |    |    |                      |
-  | DM         | Ly          |    |    | Other     | Less, Eza, Fzf |    |    |                      |
+  *WM* -- **hyprland**
+  *bar* -- **waybar**
+  *launcher* -- **fuzzel**
+  *term* -- **foot**
+  *shell* -- **fish**
+  *prompt* -- **starship**
 
-  </b>
-</details>
-
-<details>
-  <summary><b>Keybindings</b></summary>
-  <br>
-  <b>
-
-  | Keybinding        | Action       |    | Keybinding            | Action                    |
-  | ----------------- | ------------ | -- | --------------------- | ------------------------- |
-  | SUPER + CTRL + E  | Exit         |    | SUPER + T             | Toggle Split              |
-  | SUPER + SPACE     | App Menu     |    | SUPER + F             | Floating Mode             |
-  | SUPER + ENTER     | Terminal     |    | SUPER + P             | Pseudo Mode               |
-  | SUPER + BACKSPACE | Close Window |    | SUPER + ARROW         | Move Focus                |
-  | SUPER + E         | File Manager |    | SUPER + LMB/RMB       | Move/Resize Window        |
-  | SUPER + B         | Browser      |    | SUPER + (1-5)         | Workspace (1-5)           |
-  | SUPER + V         | Clipboard    |    | SUPER + SHIFT + (1-5) | Move To Workspace (1-5)   |
-  | PrintScreen       | Screenshot   |    | SUPER + S             | Special Workspace         |
-  |                   |              |    | SUPER + SHIFT + S     | Move To Special Workspace |
-    
-  </b>
 </details>
 
 <details>
