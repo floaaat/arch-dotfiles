@@ -22,7 +22,7 @@
   *launcher* -- **fuzzel**\
   *term* -- **foot**\
   *shell* -- **fish**\
-  *prompt* -- **starship**\
+  *prompt* -- **starship**
 
 </details>
 
