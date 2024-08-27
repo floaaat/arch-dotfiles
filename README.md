@@ -17,12 +17,12 @@
   <summary><b>Software</b></summary>
   <br>
 
-  *WM* -- **hyprland**\
-  *bar* -- **waybar**\
-  *launcher* -- **fuzzel**\
-  *term* -- **foot**\
-  *shell* -- **fish**\
-  *prompt* -- **starship**
+  ***WM* -- hyprland**\
+  ***bar* -- waybar**\
+  ***launcher* -- fuzzel**\
+  ***term* -- foot**\
+  ***shell* -- fish**\
+  ***prompt* -- starship**
 
 </details>
 
