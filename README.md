@@ -32,11 +32,11 @@
 
   Installing software
   ```sh
-  sudo pacman -Sy hyprland waybar fuzzel swww cliphist grim slurp ly \
+  sudo pacman -Sy --needed hyprland waybar fuzzel swww cliphist grim slurp ly \
   foot fish starship yazi helix bottom fastfetch less eza fzf \
-  ttf-firacode-nerd archlinux-wallpaper
+  ttf-firacode-nerd
 
-  sudo yay -Sy catppuccin-gtk-theme-mocha bibata-cursor-theme
+  sudo yay -Sy --needed catppuccin-gtk-theme-mocha bibata-cursor-theme
   ```
   Copying config files
   ```sh

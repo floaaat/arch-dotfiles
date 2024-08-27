@@ -6,6 +6,3 @@ show_hidden = true
 edit = [
   { run = 'helix "$@"', block = true }
 ]
-
-[preview]
-image_filter = "triangle"
