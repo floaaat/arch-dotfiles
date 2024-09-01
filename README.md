@@ -2,16 +2,21 @@
 
 <p align="center">
   <a href="https://github.com/floaaat/dotfiles.git">
-    <img src="https://img.shields.io/endpoint
+    <img src="
+    https://img.shields.io/endpoint
     ?url=https://ghloc.vercel.app/api/floaaat/dotfiles/badge
     &style=for-the-badge&colorA=313244&colorB=b4befe"/>
-    <img src="https://img.shields.io/github/languages/code-size/floaaat/dotfiles
+    <img src="
+    https://img.shields.io/github/languages/code-size/floaaat/dotfiles
     ?style=for-the-badge&colorA=313244&colorB=cba6f7"/>
-    <img src="https://img.shields.io/github/languages/top/floaaat/dotfiles
+    <img src="
+    https://img.shields.io/github/languages/top/floaaat/dotfiles
     ?style=for-the-badge&colorA=313244&colorB=f5c2e7"/>
-    <img src="https://img.shields.io/github/license/floaaat/dotfiles
+    <img src="
+    https://img.shields.io/github/license/floaaat/dotfiles
     ?style=for-the-badge&colorA=313244&colorB=f9e2af"/>
-    <img src="https://img.shields.io/github/stars/floaaat/dotfiles
+    <img src="
+    https://img.shields.io/github/stars/floaaat/dotfiles
     ?style=for-the-badge&colorA=313244&colorB=a6e3a1"/>
   </a>
 </p>
