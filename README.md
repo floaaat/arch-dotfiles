@@ -13,7 +13,7 @@
   <img src="assets/2.png" width="49%"/>
 </p>
 
-<p align="middle">
+<p align="center">
 
   **wm:** `hyprland`
   **bar:** `waybar`
