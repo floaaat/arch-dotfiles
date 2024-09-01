@@ -13,7 +13,7 @@
   <img src="assets/2.png" width="49%"/>
 </p>
 
-<p align="center">
+<h6 align="center">
 
   **wm:** `hyprland`
   **bar:** `waybar`
@@ -22,7 +22,7 @@
   **shell:** `fish`
   **prompt:** `starship`
 
-</p>
+</h6>
 
 <b>
 <details>
