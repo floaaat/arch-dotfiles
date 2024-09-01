@@ -13,15 +13,18 @@
   <img src="assets/2.png" width="49%"/>
 </p>
 
+<p align="middle">
+
+  **wm:** `hyprland`
+  **bar:** `waybar`
+  **launcher:** `fuzzel`
+  **term:** `foot`
+  **shell:** `fish`
+  **prompt:** `starship`
+
+</p>
+
 <b>
-
-wm: `hyprland`
-bar: `waybar`
-launcher: `fuzzel`
-term: `foot`
-shell: `fish`
-prompt: `starship`
-
 <details>
   <summary>Installation</summary><br>
   
