@@ -21,7 +21,8 @@
   prompt: `starship`
 
   <details>
-    <summary>Installation</summary><br>
+    <summary>Installation</summary>
+    <br>
   
     Installing software
     ```sh
