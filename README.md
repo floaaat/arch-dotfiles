@@ -13,8 +13,6 @@
   <img src="assets/2.png" width="49%"/>
 </p>
 
-<b>
-
 **wm:** `hyprland`
 **bar:** `waybar`
 **launcher:** `fuzzel`
@@ -23,7 +21,7 @@
 **prompt:** `starship`
 
 <details>
-  <summary>Installation</summary><br>
+  <summary><b>Installation</b></summary><br>
 
   Installing software
   ```sh
@@ -46,5 +44,3 @@
   sudo systemctl enable ly.service
   ```
 </details>
-
-</b>
