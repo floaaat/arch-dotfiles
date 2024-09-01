@@ -26,31 +26,22 @@
   <details>
     <summary>Installation</summary><br>
     <p>
-    
       Installing software
-      ```sh
-      sudo pacman -Sy --needed hyprland waybar fuzzel swww cliphist grim slurp ly \
-      foot fish starship yazi helix bottom fastfetch less eza fzf \
-      ttf-firacode-nerd
-
-      sudo yay -Sy --needed catppuccin-gtk-theme-mocha bibata-cursor-theme
-      ```
+      <code>
+        sudo pacman -Sy --needed hyprland waybar fuzzel swww cliphist grim slurp ly \
+        foot fish starship yazi helix bottom fastfetch less eza fzf ttf-firacode-nerd
+        sudo yay -Sy --needed catppuccin-gtk-theme-mocha bibata-cursor-theme
+      </code>
       Copying config files
-      ```sh
-      git clone https://github.com/floaaat/dotfiles.git ~/floaaat-dotfiles/
-
-      mkdir -p ~/.config/
-      cp -r ~/floaaat-dotfiles/.config/* ~/.config/
-      ```
+      <code>
+        git clone https://github.com/floaaat/dotfiles.git ~/floaaat-dotfiles/
+        mkdir -p ~/.config/
+        cp -r ~/floaaat-dotfiles/.config/* ~/.config/
+      </code>
       Changing shell to fish
-      ```sh
-      sudo chsh -s /usr/bin/fish
-      ```
+      <code>sudo chsh -s /usr/bin/fish</code>
       Enabling ly.service
-      ```sh
-      sudo systemctl enable ly.service
-      ```
-    
+      <code>sudo systemctl enable ly.service</code>
     </p>
   </details>
 </b>
