@@ -13,22 +13,18 @@
   <img src="assets/2.png" width="49%"/>
 </p>
 
-<h4 align="center">
-
-  **wm:** `hyprland`
-  **bar:** `waybar`
-  **launcher:** `fuzzel`
-  **term:** `foot`
-  **shell:** `fish`
-  **prompt:** `starship`
-
-</h4>
-<br>
-
 <b>
+
+**wm:** `hyprland`
+**bar:** `waybar`
+**launcher:** `fuzzel`
+**term:** `foot`
+**shell:** `fish`
+**prompt:** `starship`
+
 <details>
   <summary>Installation</summary><br>
-  
+
   Installing software
   ```sh
   sudo pacman -Sy --needed hyprland waybar fuzzel swww cliphist grim slurp ly \
