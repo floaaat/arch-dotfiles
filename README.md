@@ -5,20 +5,12 @@
     <img src="https://img.shields.io/endpoint
     ?url=https://ghloc.vercel.app/api/floaaat/dotfiles/badge
     &style=for-the-badge&colorA=313244&colorB=b4befe">
-  </a>
-  <a href="https://github.com/floaaat/dotfiles.git">
     <img src="https://img.shields.io/github/languages/code-size/floaaat/dotfiles
     ?style=for-the-badge&colorA=313244&colorB=cba6f7">
-  </a>
-  <a href="https://github.com/floaaat/dotfiles.git">
     <img src="https://img.shields.io/github/languages/top/floaaat/dotfiles
     ?style=for-the-badge&colorA=313244&colorB=f5c2e7">
-  </a>
-  <a href="https://github.com/floaaat/dotfiles.git">
     <img src="https://img.shields.io/github/license/floaaat/dotfiles
     ?style=for-the-badge&colorA=313244&colorB=f9e2af">
-  </a>
-  <a href="https://github.com/floaaat/dotfiles.git">
     <img src="https://img.shields.io/github/stars/floaaat/dotfiles
     ?style=for-the-badge&colorA=313244&colorB=a6e3a1">
   </a>
