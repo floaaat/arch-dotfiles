@@ -13,7 +13,6 @@
   <img src="assets/2.png" width="49%"/>
 </p>
 
-<b>
   wm: `hyprland`
   bar: `waybar`
   launcher: `fuzzel`
@@ -49,4 +48,3 @@
     ```
     
   </details>
-</b>
