@@ -23,6 +23,7 @@
   **prompt:** `starship`
 
 </h4>
+<br>
 
 <b>
 <details>
