@@ -26,3 +26,6 @@ hidden = false
 [editor.indent-guides]
 character = "┆"
 render = true
+
+[editor.soft-wrap]
+enable = true
