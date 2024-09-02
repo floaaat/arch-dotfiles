@@ -26,8 +26,6 @@
 
 <h2 align="center"><b>Installation</b></h2>
 
-<h3 align="center">
-
 ```sh
 sudo pacman -Sy --needed hyprland waybar fuzzel swww cliphist grim slurp ly \
 foot fish starship yazi helix bottom fastfetch less eza fzf ttf-firacode-nerd
@@ -41,5 +39,3 @@ sudo chsh -s /usr/bin/fish
 
 sudo systemctl enable ly.service
 ```
-
-</h3>
