@@ -27,7 +27,7 @@
 
 ```sh
 sudo pacman -Sy --needed hyprland waybar fuzzel swww cliphist grim slurp ly \
-foot fish yazi helix bottom fastfetch less eza fzf ttf-firacode-nerd
+foot fish yazi helix bottom less eza fzf ttf-firacode-nerd
 sudo yay -Sy --needed catppuccin-gtk-theme-mocha bibata-cursor-theme
 
 git clone https://github.com/floaaat/dotfiles.git ~/floaaat-dotfiles/
