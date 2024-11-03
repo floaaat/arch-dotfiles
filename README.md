@@ -14,13 +14,7 @@
 </p>
 
 <h4 align="center">
-
-  wm: **hyprland**
-  bar: **waybar**
-  launcher: **fuzzel**
-  term: **foot**
-  shell: **fish**
-
+  hyprland % waybar % fuzzel % foot % fish
 </h4>
 
 <h2 align="center"><b>Installation</b></h2>
