@@ -15,11 +15,11 @@
 
 <h4 align="center">
 
-  **wm:** `hyprland`
-  **bar:** `waybar`
-  **launcher:** `fuzzel`
-  **term:** `foot`
-  **shell:** `fish`
+  wm: **hyprland**
+  bar: **waybar**
+  launcher: **fuzzel**
+  term: **foot**
+  shell: **fish**
 
 </h4>
 
